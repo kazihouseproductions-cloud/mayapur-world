@@ -1,0 +1,11 @@
+# Unity-generated project folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Generated Visual Studio files
+/.vs/
+/*.csproj
+/*.sln
